@@ -1,4 +1,4 @@
-# monday_coffee_sql_analysis
+# Monday_Coffee_SQL_Analysis
 
 ## Overview
 
